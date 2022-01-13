@@ -17,7 +17,7 @@ return(
         <img src="Logo.png" className="logo" />
         <nav className="navbar">
             
-            <a href="http://localhost:3000/">Home </a>
+            <a href="https://bhupi080.github.io/reactwebapp">Home </a>
             <a href="#">Products </a>
             <a href="#">Contactus </a>
             <a href="#">Aboutus </a>
@@ -33,8 +33,6 @@ return(
     </div>
 </header>
 
-
-    
             <Routes>
 
                 <Route exact path='/' element={<Login/>} />
