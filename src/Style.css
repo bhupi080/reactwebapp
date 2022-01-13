@@ -1,0 +1,297 @@
+body{
+  background-image:url('https://firebasestorage.googleapis.com/v0/b/leinko-fa3c6.appspot.com/o/landingPage%2Fbanner_bg.png?alt=media&token=bf2161e5-2de4-4d5f-9e7f-bf5694ee67b4')
+}
+
+.wrapper{
+  
+  border-radius: 5px;
+  width: 100%;
+  height: 70px;
+  background-image:linear-gradient(to right,white,rgba(63,20,136,.5));
+  margin-top: 0px;
+ }
+
+
+.navbar{
+ 
+  float: left;
+  font-size: 25px;
+  padding: 5px;
+  
+}
+.navbar a{
+ 
+  float: left;
+  font-size: 25px;
+  padding: 20px;
+  
+}
+.btn{
+  border: 3px solid #3498db;
+  margin-top: 14px;
+  margin-right: 10px;
+  float: right;
+  color: rgb(63,20,136);
+  padding: 10px 30px;
+  font-family: montserrat;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 20px;
+  
+}
+.btn2{
+  border: 3px solid #3498db;
+  margin-top: 14px;
+  margin-right: 20px;
+  float: right;
+  color: rgb(63,20,136);
+  padding: 10px 30px;
+  font-family: montserrat;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 20px;
+}
+.btn3{
+  border: 3px solid #3498db;
+  margin-top: 30px;
+  float: left;
+  color: rgb(63,20,136);
+  padding: 10px 30px;
+  font-family: montserrat;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 20px;
+  float: right;
+  margin-right: 400px;
+  
+}
+
+
+.log{
+  color: lemonchiffon;
+  margin-left: 300px;
+  margin-top: 50px;
+  padding-left: 40px;
+  border: 2px solid rgb(63,20,136);
+  border-radius: 10px;
+  width: 900px;
+  height: 600px;
+  background: linear-gradient(122deg, rgba(150,144,213,1) 0%, rgba(239,165,206,1) 70%);
+}
+
+
+  
+
+.formleft{
+  margin-top: 35px;
+   width: 100%;
+   height: 88%;
+   
+  
+   
+}
+.formleftl{
+  margin-top: 35px;
+   width: 100%;
+   height: 88%;
+   
+  
+   
+}
+
+
+.text1,.text2{
+  border-radius: 20px;
+  width: 250px;
+  height: 40px;
+  border: 0px;
+  padding-left: 15px;
+  font-size: 15px;
+  float: right;
+  margin-right: 300px;
+}
+
+.text3{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width: 100px;
+  height: 40px;
+  border: 0px;
+  padding-left: 35px;
+  font-size: 15px;
+  float: left;
+}
+.text4{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 100px;
+  height: 40px;
+  border: 0px;
+  padding-left: 15px;
+  font-size: 15px;
+  float: left;
+}
+
+.logo{
+
+  width: 230px;
+  height: 70px;
+  margin-left: 160px;
+  margin-top: 1px;
+}
+
+.label {
+  font-size: 25px;
+  font-weight: bold;
+  width: 600px;
+  
+ 
+}
+
+.formleft h1{
+  text-align: center;
+  margin-right: 60px;
+}
+
+.sub{
+  margin-left: 300px;
+}
+.head{
+  font-size: larger;
+  font-weight: bold;
+}
+.tfield{
+  border-radius: 20px;
+  width: 250px;
+  height: 40px;
+  border: 0px;
+  padding-left: 20px;
+  margin-left: 10px;
+  
+}
+.tbutton{
+border: 3px solid #3498db;
+color: rgb(63,20,136);
+padding: 10px 30px;
+font-family: montserrat;
+cursor: pointer;
+font-size: 16px;
+border-radius: 20px;
+margin-left: 15px;
+}
+
+.tbutton:hover{
+
+  background-color: rgb(63,20,136);
+  color: white;
+  
+  transition: 0.3s;
+}
+.btn:hover{
+
+  background-color: rgb(63,20,136);
+  color: white;
+  
+  transition: 0.3s;
+}
+.butn3:hover{
+
+  background-color: rgb(63,20,136);
+  color: white;
+  
+  transition: 0.3s;
+}
+.btn2:hover{
+
+  background-color: rgb(63,20,136);
+  color: white;
+  
+  transition: 0.3s;
+}
+.btn3:hover{
+
+  background-color: rgb(63,20,136);
+  color: white;
+  
+  transition: 0.3s;
+}
+.res{
+  background-color: rgba(150,144,213,.5);
+  border-radius: 40px;
+  border-style:outset;
+  border-width: 5px;
+  border-color: #3498db;
+  width: 750px;
+  height: 350px;
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.heade{
+  font-weight: bolder;
+  font-size: 23px;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.formrightl{
+  margin-top: 35px;
+  margin-right: 45px;
+  width: 50%;
+  height: 88%;
+  background-image:url('https://leinko.com/9cfe24f530be4d3ff5036bd602462c29.jpg');
+  
+  background-size:cover;
+  float: right;
+  border: 2px solid rgb(63,20,136);
+  border-radius: 10px;
+  
+}
+
+.tex1,.tex2{
+  border-radius: 20px;
+  width: 250px;
+  height: 40px;
+  border: 0px;
+  padding-left: 15px;
+  font-size: 15px;
+}
+
+.tex3{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width: 100px;
+  height: 40px;
+  border: 0px;
+  padding-left: 35px;
+  font-size: 15px;
+}
+.tex4{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 100px;
+  height: 40px;
+  border: 0px;
+  padding-left: 15px;
+  font-size: 15px;
+}
+.butn3{
+  border: 3px solid #3498db;
+  margin-top: 35px;
+  margin-left: 80px;
+  float: left;
+  color: rgb(63,20,136);
+  padding: 10px 30px;
+  font-family: montserrat;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 20px;
+  
+}
+
+.aside{
+  width: 200px;
+  height: 700px;
+  background-color:black;
+
+}
